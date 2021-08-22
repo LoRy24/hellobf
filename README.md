@@ -1,2 +1,2 @@
 # hellobf
-A program that write hello.
+A test program in Brainfuck
